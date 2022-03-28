@@ -12,3 +12,17 @@ One of the following values:
 
 {% enddocs %}
 
+
+{% docs payment_status %}
+	
+One of the following values: 
+
+| status         | definition                                       |
+|----------------|--------------------------------------------------|
+| success        | Payment was success.                             |
+| fail           | Payment failed                                   |
+
+
+{% enddocs %}
+
+
